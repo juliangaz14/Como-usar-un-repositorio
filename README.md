@@ -31,7 +31,7 @@ git clone (te permite clonar caulquier proyecto que esta en un repositorio a tu 
 ya tenes el proyecto descargado y queres descargarte nuevos cambios, ahi se utiliza otro comando.
 
 git commit -m "titulo" (es para confirmar el archivo que está listo para ser empujado a nuestro repositorio o para
-guardar version segura [backup])
+guardar version segura [backup] chekpoint)
 
 git push (es para empujar o impulsar las modificaciones o nuevos cambios al repositorio
 que no van a una rama de origen, es decir, una vez que commiteas un archivo, luego debemos poner el comando "git push"
